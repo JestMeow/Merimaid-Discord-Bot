@@ -6,7 +6,7 @@ This bot's only purpose is to allow users to render Mermaid.js in Discord. This 
 
 This bot uses Mermaid.ink as the image URL of the generated diagram.
 
-##Configuration
+## Configuration
 Create a .env file or set environment variables following the contents of .env.example:
 ```
 # Your discord bot token
